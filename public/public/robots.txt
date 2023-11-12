@@ -1,0 +1,3 @@
+# https://www.ChatIconstxt.org/ChatIconstxt.html
+User-agent: *
+Disallow:
